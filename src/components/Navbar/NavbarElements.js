@@ -4,7 +4,7 @@ import {FaDumbbell} from 'react-icons/fa'
 
 
 export const Nav = styled.nav`
-    background: blue;
+    background: transparent;
     height: 80px;
     display: flex;
     justify-content: center;
