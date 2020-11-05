@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <>
             <Nav>
-            <NavLink to='/'>Shapeshifter</NavLink>
+            <NavLink to='/'>Shape-shifter</NavLink>
             <NavIcon>
                 <p>Menu</p>
                 <Bars/>

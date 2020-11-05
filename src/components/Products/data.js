@@ -18,7 +18,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Jake Slate',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'Focuses on toning and plyometrics',
     price: '$19.99',
     button: 'Add to Cart'
   },
@@ -27,7 +27,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Kim K',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "Looking for a toned booty with a little bit of Zumba, I'm your girl",
     price: '$29.99',
     button: 'Add to Cart'
   },
@@ -36,7 +36,7 @@ export const productData = [
     alt: 'Pizza',
     name: 'Jessie Kelley',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "I've been trainer of the year for 2 straight years!  My speciality is strength for ladies!",
     price: '$23.99',
     button: 'Add to Cart'
   },
@@ -45,7 +45,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Domer Simpson',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'My workouts are authentic and will always be tailored to your needs!',
     price: '$68.99',
     button: 'Add to Cart'
   },
@@ -54,7 +54,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Monique Long',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'I teach my clients how to get in and out of the gym, while being efficient with their workouts',
     price: '$30.99',
     button: 'Add to Cart'
   },
@@ -63,7 +63,7 @@ export const productData = [
     alt: 'Pizza',
     name: 'Mr. Macho Marvin',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "Don't let the smile fool you, when I'm done with you, you will be sweating in your tears!  Thank me later",
     price: '$32.99',
     button: 'Add to Cart'
   },
@@ -72,7 +72,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Chad Buttons',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'You ever wanted to just look good training?  Ill be your IG photographer and get you right for the likes.',
     price: '$70.99',
     button: 'Add to Cart'
   },
@@ -81,7 +81,7 @@ export const productData = [
     alt: 'trainer',
     name: 'Tyrone Collier',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "If you want to train while listening to my dope mixtapes, I'll be your guy!",
     price: '$40.99',
     button: 'Add to Cart'
   },
@@ -90,7 +90,7 @@ export const productData = [
     alt: 'Pizza',
     name: 'Chase & Karen',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "Next time you ask to speak to a manager, we will make sure you're in shape to take on all of management",
     price: '$100.99',
     button: 'Add to Cart'
   },
@@ -99,7 +99,7 @@ export const productData = [
     alt: 'Pizza',
     name: 'Quisha & Kenneth',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      "We are the interracial couple of the year!  Our plans for couples will make you everyone's Body Goals!",
     price: '$100.99',
     button: 'Add to Cart'
   }
@@ -111,7 +111,7 @@ export const productDataTwo = [
     alt: 'trainer',
     name: 'Latoya Foxx',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
+      'Coming Soon.....',
     price: '$34.99',
     button: 'Add to Cart'
   },
@@ -120,7 +120,7 @@ export const productDataTwo = [
     alt: 'trainer',
     name: 'Candace Owens',
     desc:
-      'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
+      'Coming Soon.....',
     price: '$59.99',
     button: 'Add to Cart'
   },
@@ -129,7 +129,7 @@ export const productDataTwo = [
     alt: 'Brownie',
     name: 'Steve Kerr Sr.',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
+      'Coming Soon.....',
     price: '$19.99',
     button: 'Add to Cart'
   }

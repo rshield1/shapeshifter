@@ -12,9 +12,9 @@ function App() {
     <Router>
       <GlobalStyle />
       <Hero />
-      <Products heading='Choose your favorite' data={productData} />
+      <Products heading='Find your Trainer' data={productData} />
       <Feature />
-      <Products heading='Sweet Treats for You' data={productDataTwo} />
+      <Products heading='New Trainers' data={productDataTwo} />
       <Footer />
     </Router>
   );
